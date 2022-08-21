@@ -1,5 +1,5 @@
 [{
-	"version": "1.0.4",
-	"url": "https://github.com/TheRatanDas/InstaPro/raw/main/update/updates-v1.0.4.zip",
-	"changelog": "<p class='label'><strong>Version 1.0.4</strong></p><p class='label'> - FIX: Instagram API Update.</p><p class='label'> - NEW: Username Password Login.</p><p class='label'> - NEW: Addon Update.</p><p class='label'> - Minor bug fixes.</p><p class='label'><strong>Version 1.0.3</strong></p><p class='label'> - NEW: Cookies Expired Notification to Email.</p><p class='label'> - Minor bug fixes.</p><p class='label'><strong>Version 1.0.2</strong></p><p class='label'> - NEW: Add Anti-Adblocker option.</p><p class='label'> - NEW: Improve downloaded files.</p><p class='label'> - Minor bug fixes.</p><p class='label'><strong>Version 1.0.1</strong></p><p class='label'> - NEW: Add logo & favicon change option.</p><p class='label'> - NEW: Add advanced section (with this you can easily set search console code, analytics code & other code).</p><p class='label'> - Minor bug fixes.</p><p class='label'><strong>Version 1.0.0</strong></p><p class='label'> - Initial release.</p>"
+	"version": "1.0.5",
+	"url": "https://github.com/TheRatanDas/InstaPro/raw/main/update/updates-v1.5.zip",
+	"changelog": "<p class='label'><a href='https://ratandas.com/insta-pro/documentation/#idocs_changelog' target='_blank'>Click Here</a></p>"
 }]
